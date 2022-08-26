@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente procuro por uma vaga de estágio.
-- 🌱 Estudante de Engenharia de Software 
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante de Engenharia de Software.
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/JulianPakulski">
